@@ -10,7 +10,7 @@ CLI-утилита на Python, которая параллельно собир
 ## Установка
 
 ```bash
-git clone https://github.com/bt0ct0zy/ip-intel.git
+git clone https://github.com/enp3s8/ip-intel.git
 cd ip-intel
 pip install -r requirements.txt
 ```

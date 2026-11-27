@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+*.mmdb
+.venv/
+venv/
+report*.json
